@@ -2,6 +2,6 @@
 ![npm bundle size](https://img.shields.io/bundlephobia/min/binance-api-wrapper.svg)
 
 
-#Binance API Wrapper
+# inance API Wrapper
 NPM package for Binance Rest/Socket API
 
